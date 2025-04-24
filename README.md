@@ -12,9 +12,9 @@
          </span>
      </div>
  </center>
+ <div></div>
 
-
- ## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
+## <img src="assets/info-circle-solid.svg" width="30px"> 个人信息 
 
  - 男，1996 年出生
  - 求职意向：工程师
